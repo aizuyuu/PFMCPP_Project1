@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: musicPlayer
+//  action 1: play music
+musicPlayer.play();
+//  action 2: stop music
+musicPlayer.stop();
+//  action 3: skip currently playing song
+musicPlayer.skipSong();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: read numbers inputted
+phone.readInput();
+//  action 2: connect to network
+phone.connectNetwork();
+//  action 3: transmit voice signal from the people talking
+phone.transmitSignal();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: amplifier
+//  action 1: take audio signal input
+amplifier.takeInput();
+//  action 2: amplifie signal
+amplifier.amplify();
+//  action 3: make noise
+amplifier.makeNoise();
  
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: riceCooker
+//  action 1: cook rice
+riceCooker.cook();
+//  action 2: store rice
+riceCooker.store();
+//  action 3: reheat other food
+riceCooker.reheat(); 
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: fridge
+//  action 1: cool things
+fridge.cooling();
+//  action 2: preserve ingredients
+fridge.preserve();
+//  action 3: make ice
+fridge.makeIce();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cow
+//  action 1: make milk
+cow.makeMilk();
+//  action 2: say moo
+cow.sayMoo();
+//  action 3: eat grass
+cow.eatGrass();
  
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: nailClipper
+//  action 1: cut nail
+nailClipper.cutNail();
+//  action 2: clean nail
+nailClipper.cleanNail();
+//  action 3: smooth nail
+nailClipper.smoothNail();
  
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: curtain
+//  action 1: let light come inside
+curtain.passLight();
+//  action 2: stop light coming inside
+curtain.stopLight();
+//  action 3: change light color
+curtain.changeLightColor();
  
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: airplane
+//  action 1: fly
+airplane.fly();
+//  action 2: load passengers
+airplane.loadPassenger();
+//  action 3: load luggages
+airplane.loadLuggage();
  
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: youtube
+//  action 1: play video
+youtube.playVideo();
+//  action 2: recommend video
+youtube.recommend();
+//  action 3: play ads
+youtube.playAds(); 
 
 
 #endif
