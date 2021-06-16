@@ -106,13 +106,13 @@ cow.sayMoo();
 cow.eatGrass();
  
 //  7)
-//  Noun: bird
-//  action 1: fly around
-bird.flyAround();
-//  action 2: drop poop
-bird.dropPoop();
-//  action 3: chirp
-bird.chirp();
+//  Noun: nailClipper
+//  action 1: cut nail
+nailClipper.cutNail();
+//  action 2: clean nail
+nailClipper.cleanNail();
+//  action 3: smooth nail
+nailClipper.smoothNail();
  
 //  8)
 //  Noun: curtain
